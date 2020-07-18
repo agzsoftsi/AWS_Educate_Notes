@@ -30,8 +30,8 @@ The AWS Certified Cloud Practitioner exam is intended for individuals who have t
 
 ## :books: Content
 
-- [Module 01 - Cloud Computing](Module 01 - Cloud Computing/)
-- [Quizz - Module 01](Module 01 - Cloud Computing/Quizz - Module 01/)
+- [Module 01 - Cloud Computing](Module_01_Cloud_Computing/)
+- [Quizz - Module 01](Module_01_Cloud_Computing/Quizz_Module01/)
 
 
 ## Author
